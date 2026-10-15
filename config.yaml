@@ -1,5 +1,6 @@
 ---
-name: fireworks-tech-graph
+id: fireworks-tech-graph
+name: 技术图表生成
 description: 生成高质量 SVG 技术图表（架构图/流程图/序列图等），支持七种视觉样式，辅助脚本验证并导出 PNG。
 version: 0.1.0
 license: MIT
